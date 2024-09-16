@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **marion.pro48@gmail.com**
 
-- 📄 Know about my experiences [github.com/marionL48/CV_EngFr](CV_EngFr)
+- 📄 Know about my experiences [CV_EngFr](github.com/marionL48/CV_EngFr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
