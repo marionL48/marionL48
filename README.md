@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **about data science**
 
-- 👨‍💻 All of my projects are available at [futur_portfolio](futur_portfolio)
+- 👨‍💻 All of my projects are available at [MyProjects](MyProjects)
 
 - 📫 How to reach me **marion.pro48@gmail.com**
 
